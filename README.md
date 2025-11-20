@@ -11,10 +11,19 @@ This project analyzes the global banking network using BIS Consolidated Banking 
 - Visualizations of centrality, clusters, and network structure.
 
 ## Files
-code/
+
 ├── Graph_ML_Global_Network_Analysis.ipynb # Main notebook
 ├── *.png # Generated plots
-data/
-└── bis_dataset.csv # Raw BIS data (not included)
+
 README.md
 
+## Requirements
+
+Networkx
+Matplotlib
+Pandas
+community ; community_louvain
+sklearn
+scipy
+seaborns
+collections
